@@ -14,7 +14,7 @@
 
 &nbsp;
 
-![Capa](https://github.com/Andresa-Alves-Ribeiro/Setup/habits.png?raw=true#vitrinedev)
+![Capa](https://github.com/Andresa-Alves-Ribeiro/Setup/blob/main/habits.png)
 
 &nbsp;
 <a id="-sobre-o-projeto"></a>
