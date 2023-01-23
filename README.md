@@ -240,15 +240,31 @@ Instalando biblioteca de Axios para comunicação Http
 npm install axios
 ```
 
+&nbsp;
+<a id="-funcionalidades"></a>
+
+## ⚙️ Funcionalidades
+
+### Running the server back-end
+
+```bash
+# development (http://localhost:3000/) | tsx watch src/server.ts
+cd server
+npm run dev
+```
+
 ### ORM Prisma back-end
 
 ```bash
 cd server
+
 # Criando BD prisma SQLite
 npx prisma init --datasource-provider SQLite
+
 # criando/atualizando as tabelas do BD no prisma
 npx prisma migrate dev
 # Enter a name for the new migration: » created tab Habits
+
 # prisma studio (Verificar tabelas e realizar CRUD manual)
 npx prisma studio
 # ou
@@ -257,10 +273,12 @@ npx prisma studio -b firefox -p 5173
 # -p 5173 p/ especificar porta
 # ou
 npm run db
+
 # Gerando diagrama de banco de dados Prisma
 npx prisma generate
 # ou
 npm run diagrama
+
 # Criando Seed, lançamentos de dados para testes
 npx prisma db seed
 ```
@@ -286,7 +304,7 @@ Olá, eu sou Andresa A Ribeiro, desenvolvedora Front-end/Full-Stack, estudando S
 &nbsp;
 
 <p align="center">
-  <a href= "https://www.linkedin.com/in/andresa-alves-ribeiro/"><img alt="perfil linkedin livio alvarenga" src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png"></a>
+  <a href= "https://www.linkedin.com/in/andresa-alves-ribeiro/"><img alt="perfil linkedin Andresa Alves" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=0A66C2&logo=LinkedIn&label=LinkedIn&message=andresa-alves-ribeiro&color=0A66C2"></a>
   <a href= "https://www.instagram.com/dresa.alves/"><img alt="perfil instagram Andresa Alves" src="https://img.shields.io/static/v1?logoWidth=15&logoColor=E4405F&logo=Instagram&label=Instagram&message=@dresa.alves&color=E4405F"></a>
 </p>
 
