@@ -25,8 +25,8 @@
 
 Possui as funcionalidades de:
 
-- ...;
-- ...;
+- Criar Hábito;
+- Habilitar e desabilitar um hábito;
 
 &nbsp;
 
