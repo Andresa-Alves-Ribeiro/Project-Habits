@@ -16,6 +16,9 @@
 
 ![Capa](https://github.com/Andresa-Alves-Ribeiro/Setup/blob/main/habits.png)
 
+![web](https://user-images.githubusercontent.com/94997593/236953707-fd3fd077-1f18-4e5c-b888-a49097da7ec7.png)
+
+
 &nbsp;
 <a id="-sobre-o-projeto"></a>
 
